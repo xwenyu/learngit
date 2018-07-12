@@ -1,2 +1,2 @@
 Git is a distributed version control system.
-xiongwenyu .
+qing qing long yue yi qiang dong
